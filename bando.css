@@ -1,0 +1,8 @@
+.selling-choice{
+	padding: 20px 20px 0px 20px; 
+	font-size: 20px;
+}
+.selling-choice:hover {
+	opacity: 0.6;
+	cursor: pointer;
+}
